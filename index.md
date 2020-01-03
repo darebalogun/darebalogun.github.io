@@ -4,10 +4,10 @@
 
 ### School Projects 
 
-[IndoorView: A Google Street View Experience for Indoor Spaces](#)
+[IndoorView: A Google Street View Experience for Indoor Spaces](https://darebalogun.github.io/indoorView/)
 
 ---
-[Smart Parking System](#)
+[Smart Parking System](https://darebalogun.github.io/park-smart/)
 
 ---
 [A Real-time Concurrent Elevator Controller](#)
