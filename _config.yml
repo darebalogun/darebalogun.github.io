@@ -9,5 +9,5 @@ description:
   <br><br>
   <a href="https://www.linkedin.com/in/dare-balogun/">LinkedIn</a> 
   
-theme: jekyll-theme-minimal
+remote-theme: poole/hyde
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
