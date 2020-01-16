@@ -2,7 +2,7 @@
 
 ---
 
-### School Projects 
+### Select Projects 
 
 [IndoorView: A Google Street View Experience for Indoor Spaces](https://darebalogun.github.io/indoorView/)
 
@@ -13,17 +13,6 @@
 [A Real-time Concurrent Elevator Controller](https://darebalogun.github.io/SYSC3303G4/)
 
 ---
-
-### Personal Projects
-
-[MIPS Processor on FPGA](#)
-
----
-
-[ARM Cortex M4 RTOS](#)
-
----
-
 
 
 
