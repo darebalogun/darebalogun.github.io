@@ -2,7 +2,7 @@
 
 ---
 
-### Select Projects 
+### School Projects
 
 [IndoorView: A Google Street View Experience for Indoor Spaces](https://darebalogun.github.io/indoorView/)
 
@@ -14,6 +14,17 @@
 
 ---
 
+### Personal Projects
+
+[PiKernel: A small bootable 64bit kernel for the Raspberry Pi]
+
+---
+[MIPS-Processor: A verilog implementation of the MIPS processor]
+
+---
+[CarletonU-RateMyProf: A chrome plugin that hyperlinks professor names to their rate my prof page]
+
+---
 
 
 ---
