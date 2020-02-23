@@ -16,13 +16,13 @@
 
 ### Personal Projects
 
-[PiKernel: A small bootable 64bit kernel for the Raspberry Pi]
+[PiKernel: A small bootable 64bit kernel for the Raspberry Pi](#)
 
 ---
-[MIPS-Processor: A verilog implementation of the MIPS processor]
+[MIPS-Processor: A verilog implementation of the MIPS processor](#)
 
 ---
-[CarletonU-RateMyProf: A chrome plugin that hyperlinks professor names to their rate my prof page]
+[CarletonU-RateMyProf: A chrome plugin that hyperlinks professor names to their rate my prof page](#)
 
 ---
 
